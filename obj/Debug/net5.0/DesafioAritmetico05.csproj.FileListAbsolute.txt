@@ -1,0 +1,16 @@
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.exe
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.deps.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.runtimeconfig.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.runtimeconfig.dev.json
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\ref\DesafioAritmetico05.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\bin\Debug\net5.0\DesafioAritmetico05.pdb
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.csprojAssemblyReference.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.GeneratedMSBuildEditorConfig.editorconfig
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.AssemblyInfoInputs.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.AssemblyInfo.cs
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.csproj.CoreCompileInputs.cache
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\ref\DesafioAritmetico05.dll
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.pdb
+F:\digitalInnovationOne\workspace\DesafioAritmetico05\obj\Debug\net5.0\DesafioAritmetico05.genruntimeconfig.cache

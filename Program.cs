@@ -1,12 +1,15 @@
 ﻿using System;
+using System.Linq;
 
-namespace DesafioAritmetico05
+class URI
 {
-    class Program
+
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
+        string n = Console.ReadLine();
+        string v = new string(n.Reverse().ToArray());
+        Console.WriteLine(v);
     }
+
 }
